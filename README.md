@@ -47,5 +47,7 @@ calc.js ask "plain english" — natural language, word numbers included
 
 calc.js diff/integ/expand — symbolic calculus"
 
+This allows the agent to offload any complex math and science to the calculator, bypassing compute utilization.
+
 # License
 MIT
